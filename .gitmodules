@@ -1,0 +1,3 @@
+[submodule "katas/csoronellas"]
+	path = katas/csoronellas
+	url = git://github.com/theUniC/SimpleLists-Kata.git
